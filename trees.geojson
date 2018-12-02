@@ -4,6 +4,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ea853b",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "tree_type": "birch"
       },
       "geometry": {
