@@ -20,7 +20,9 @@
     {
       "type": "Feature",
       "properties": {
-        "tree_type": "ash"
+        "tree_type": "ash",
+        "marker-color": "#ff0000",
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
