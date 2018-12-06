@@ -31,6 +31,22 @@
           50.38302014414152
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ea853b",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "tree_type": "oak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1517215967178345,
+          50.38329721464821
+        ]
+      }
     }
   ]
 }
